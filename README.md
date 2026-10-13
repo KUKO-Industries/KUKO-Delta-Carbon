@@ -212,6 +212,15 @@ tanto el protocolo de comunicación como la matemática del movimiento.
 </p>
 
 <p align="center">
+  <a href="https://kuko-industries.github.io/KUKO-Delta-Carbon/Multimedia/KUKO_AR/"><b>🔍 Ver en 3D y Realidad Aumentada (respaldo)</b></a>
+</p>
+<p align="center">
+  <img src="Multimedia/KUKO_AR/qr_ar_respaldo.png" alt="Código QR de respaldo para ver el robot en realidad aumentada" width="160">
+  <br>
+  <em>Enlace 2 (respaldo): la misma página publicada desde KUKO Industries, por si el enlace 1 deja de estar disponible.</em>
+</p>
+
+<p align="center">
   <img src="Multimedia/11_Clasificaci%C3%B3n_por_Color.gif" alt="Clasificación por color" width="760">
   <br>
   <em>Figura 2: Clasificación por color</em>
